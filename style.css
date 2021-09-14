@@ -1,0 +1,24 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+.nowrap {
+    white-space: nowrap;
+}
+.title{
+    color:rgb(43, 9, 9);
+}
+.mainhome{
+    border:3px;
+    border-style:solid;
+    border-color:rgb(218, 213, 213);
+    padding: 1px;
+    width:auto;
+}
+body {
+    background-image: url("images/background2.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+   }
