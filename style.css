@@ -4,6 +4,9 @@
     margin-right: auto;
     width: 250px;
 }
+h1{
+    color:rgb(122, 52, 52);
+}
 .nowrap {
     white-space: nowrap;
 }
@@ -22,3 +25,33 @@ body {
     background-size: cover;
     background-color: #cccccc;
    }
+.mainfoodimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:640px;
+    height:800px;
+}
+#maintitle,.title{
+    font-weight:bold;
+    font-size: 28px;
+    color:rgb(182, 16, 10);
+}
+.title,
+.ingreds,
+.steps{
+font-family:Verdana,sans-serif
+}
+.ingreds,
+.steps{
+    font-size:20px;
+}
+.title{
+    color:red;
+}
+.ingreds{
+    color:green;
+}
+.steps{
+color:blue;
+}
