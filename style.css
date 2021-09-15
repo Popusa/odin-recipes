@@ -16,9 +16,9 @@ h1{
 .mainhome{
     border:3px;
     border-style:solid;
-    border-color:rgb(218, 213, 213);
-    padding: 1px;
-    width:auto;
+    border-color:rgb(162, 211, 162);
+    margin-left:770px;
+    margin-right:770px;
 }
 body {
     background-image: url("images/background2.jpg");
@@ -67,6 +67,9 @@ th{
 }
 td{
     background-color: lightsteelblue;
+}
+a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
 }
 a:link {
     color: red;
